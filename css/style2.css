@@ -1,0 +1,72 @@
+.theme {
+  background-color: #e1a7ff;
+}
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
+.main .main_content {
+  color:  #a900ff;
+  font-weight: 900;
+}
+.main .main_content:hover {
+  color: rgb(108, 236, 108);
+}
+
+.default-kbx-btn {
+  background-color:  #a900ff;
+  color: white;
+  padding: 4px;
+  width: fit-content;
+}
+
+.mg-1 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-2 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-3 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-4 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-5 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-6 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-7 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-8 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-9 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}
+
+.mg-10 {
+  border: 1px solid  #a900ff;
+  background-color:  #a900ff;
+}/*# sourceMappingURL=style.css.map */
